@@ -155,7 +155,7 @@ diaric = "0.1.0"
 
 thiserror = "2"
 ort = { version = "2.0.0-rc.12", optional = true }
-tch = { version = "0.24", optional = true }
+tch = { version = "0.26", optional = true }
 
 # `serde` impls for the public `*Options` / `*Config` types so
 # callers can persist diarization configuration.
