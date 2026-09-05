@@ -151,7 +151,7 @@ gpu = [
 # `main` merge commit this crate was rev-pinned to before publication.
 # `cargo publish` rejects git dependencies, so the release depends on the
 # registry version (the caret requirement resolves any 0.1.x patch).
-diaric = "0.1.0"
+diaric = "0.2.0"
 
 thiserror = "2"
 ort = { version = "2.0.0-rc.12", optional = true }
